@@ -15,14 +15,6 @@ Full-stack developer dedicated to designing and developing robust web applicatio
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sandesh-thapaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 Hackathon Achievements
-[![Hackathon Winner](https://img.shields.io/badge/Hackathon_Winner-First_Place-gold?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/sandesh-thapaa) 
-[![In-Person Hackathon](https://img.shields.io/badge/In--Person_Hackathon-Attended-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://devpost.com/sandesh-thapaa)
-
-> **Winner at [Name of the Hackathon] (Jan 2026)**
-> Built a full-stack solution for [What was the project about?]. 
-> [View Project on Devpost](LINK_TO_YOUR_PROJECT)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandesh-thapaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
